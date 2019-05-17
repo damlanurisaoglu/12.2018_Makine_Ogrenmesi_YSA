@@ -1,0 +1,9 @@
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\bin\Debug\makineYSA.exe.config
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\bin\Debug\makineYSA.exe
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\bin\Debug\makineYSA.pdb
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\obj\Debug\makineYSA.csprojResolveAssemblyReference.cache
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\obj\Debug\makineYSA.Properties.Resources.resources
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\obj\Debug\makineYSA.csproj.GenerateResource.Cache
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\obj\Debug\makineYSA.exe
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\obj\Debug\makineYSA.pdb
+C:\Users\Damla\documents\visual studio 2017\Projects\makineYSA\makineYSA\obj\Debug\makineYSA.YSA.resources
